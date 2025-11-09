@@ -6,24 +6,25 @@ I am a Physics with Astrophysics graduate (Diploma of Higher Education) turned C
 
 ## Education
 **Degree:** Diploma of Higher Education in Physics with Astrophysics from University of Lancashire (UCLan).
+
 **Currently Pursuing:** Computer Science Degree from SRH Berlin.
 
 ## Featured Projects
-### [Ouranos]
-*Ouranos is an idle game created using Python and Pygame. This project marks my first foray into video game development using my own ideas.*
+### Ouranos
+*Ouranos is an idle game created using Python and Pygame. This project marks my first foray into video game development using my own ideas. Read the README.md file within the folder for more information.*
 
 **Technology Used:** [Python, Pygame]
 **Key Features:** [Use of multiple functions to create different gameplay loops.]
-[**View Project ->**](./Python/Ouranos/)
+[**View Projects**](./Python/Ouranos/)
 
-### [Mini-Ecommerce Application]
-*This is a Mini-Ecommerce application, emulating systems such as amazon.com. This project marks the first foray into using SQLite alongside Python for Database management.*
+### Mini-Ecommerce Application
+*This is a Mini-Ecommerce application, emulating systems such as amazon.com. This project marks the first foray into using SQLite alongside Python for Database management. Read the README.md file within the folder for more information.*
 
 **Technology Used:** [Python, SQLite]
 **Key Features:** [Create administrator account, add/remove products, change product prices, simulation of an email reciept upon "purchase".]
-[**View Project ->**](<./Python/Ecommerce Application/>)
+[**View Project**](<./Python/Ecommerce Application/>)
 
 ## Technical Skills
 **Languages:** [Python, JavaScript, HTML, CSS, C++]
-**Tools:** [Git, Neovim]
+**Tools:** [Git, Neovim, Lazygit]
 **Databases:** [SQLite]
