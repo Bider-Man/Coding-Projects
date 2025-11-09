@@ -21,7 +21,7 @@ I am a Physics with Astrophysics graduate (Diploma of Higher Education) turned C
 
 **Technology Used:** [Python, SQLite]
 **Key Features:** [Create administrator account, add/remove products, change product prices, simulation of an email reciept upon "purchase".]
-[**View Project ->**](./Python/Mini-Ecommerce Application/)
+[**View Project ->**](<./Python/Ecommerce Application/>)
 
 ## Technical Skills
 **Languages:** [Python, JavaScript, HTML, CSS, C++]
