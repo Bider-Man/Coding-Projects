@@ -26,5 +26,7 @@ I am a Physics with Astrophysics graduate (Diploma of Higher Education) turned C
 
 ## Technical Skills
 **Languages:** [Python, JavaScript, HTML, CSS, C++]
+
 **Tools:** [Git, Neovim, Lazygit]
+
 **Databases:** [SQLite]
