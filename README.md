@@ -13,22 +13,24 @@ I am a Physics with Astrophysics graduate (Diploma of Higher Education) turned C
 ### Ouranos
 *Ouranos is an idle game created using Python and Pygame. This project marks my first foray into video game development using my own ideas. Read the README.md file within the folder for more information.*
 
-**Technology Used:** [Python, Pygame]
+**Technology Used:** Python, Pygame
 
-**Key Features:** [Use of multiple functions to create different gameplay loops.]
+**Key Features:** Use of multiple functions to create different gameplay loops.
+
 [**View Projects**](./Python/Ouranos/)
 
 ### Mini-Ecommerce Application
 *This is a Mini-Ecommerce application, emulating systems such as amazon.com. This project marks the first foray into using SQLite alongside Python for Database management. Read the README.md file within the folder for more information.*
 
-**Technology Used:** [Python, SQLite]
+**Technology Used:** Python, SQLite
 
-**Key Features:** [Create administrator account, add/remove products, change product prices, simulation of an email reciept upon "purchase".]
+**Key Features:** Create administrator account, add/remove products, change product prices, simulation of an email reciept upon "purchase".
+
 [**View Project**](<./Python/Ecommerce Application/>)
 
 ## Technical Skills
-**Languages:** [Python, JavaScript, HTML, CSS, C++]
+**Languages:** Python, JavaScript, HTML, CSS, C++
 
-**Tools:** [Git, Neovim, Lazygit]
+**Tools:** Git, Neovim, Lazygit
 
-**Databases:** [SQLite]
+**Databases:** SQLite
