@@ -17,7 +17,7 @@ I am a Physics with Astrophysics graduate (Diploma of Higher Education) turned C
 
 **Key Features:** Use of multiple functions to create different gameplay loops.
 
-[**View Projects**](./Python/Ouranos/)
+[**View Project**](./Python/Ouranos/)
 
 ### Mini-Ecommerce Application
 *This is a Mini-Ecommerce application, emulating systems such as amazon.com. This project marks the first foray into using SQLite alongside Python for Database management. Read the README.md file within the folder for more information.*
