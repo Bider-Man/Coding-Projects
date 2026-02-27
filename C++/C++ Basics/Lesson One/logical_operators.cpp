@@ -1,10 +1,10 @@
-#include <iostream>
+ include <iostream>
 
 int main() {
 
-    // &&: Check if two conditions are true
-    // ||: Check if at least one of the conditions are true
-    // !: Reverse the logical state of the operand.
+    // &&: Check if two conditions are true (AND)
+    // ||: Check if at least one of the conditions are true (OR)
+    // !: Reverse the logical state of the operand. (NOT)
 
     int temp;
 
